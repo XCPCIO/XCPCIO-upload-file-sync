@@ -1,0 +1,3 @@
+[submodule "XCPCIO-upload-file"]
+	path = XCPCIO-upload-file
+	url = https://github.com/XCPCIO/XCPCIO-upload-file.git
